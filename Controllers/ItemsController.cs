@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
 using System.Linq;
+using System;
 using dotnet_catalog_api.DTOs;
 using dotnet_catalog_api.Models;
 using dotnet_catalog_api.Repositories;
